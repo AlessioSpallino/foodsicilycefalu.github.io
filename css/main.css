@@ -12,6 +12,7 @@ Text Domain: restaurant
 /*========================
 GLOBAL
 =========================*/
+
 h1 {
     font-size: 37px;
     font-weight: 900;
@@ -271,8 +272,10 @@ INTRO CONTAINER
  .featured.background_content{
     background: url('../images/featured.jpg') no-repeat center center; 
     background-size: cover;
-    background-position: center;
-    background-attachment: fixed;
+    background-position: 70% 50%;
+    /* Originally there was a parallax, if you want it, delete the above line and take out the commnts */
+    /*background-position: center;
+    background-attachment: fixed;*/
 }
  .pricing.background_content{
     background: url('../images/pricing.jpg') no-repeat center center; 

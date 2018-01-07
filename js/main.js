@@ -1,6 +1,7 @@
 
 
 	$(document).ready(function () {
+
 		$(document).on("scroll", onScroll);
  
 		$('a[href^="#"]').on('click', function (e) {
