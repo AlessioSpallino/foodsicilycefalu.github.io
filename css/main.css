@@ -227,6 +227,7 @@ INTRO CONTAINER
     color: white;
 }
 
+
 /* ========================
     IMAGE INTRO BANNER CONTENT
    =========================*/
@@ -413,6 +414,12 @@ p.sub-footer-text{
 p.sub-footer-text a{
     color: #BDBDBD;
     text-decoration: none;
+}
+
+/*Food examples */
+
+.foodex{
+    font-size: 200px;
 }
 
 /*Contact */
